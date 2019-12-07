@@ -8,6 +8,7 @@ WaybackURLS + OtxURLS + CommonCrawl = The Best Results
 - Getting Urls from archive.org
 - Getting Urls from OTX AlienVault
 - Getting Urls from last three index of CommonCrawl
+- Doing all of that in the same time using threads.
 - Erasing the parameters.
 - Removing Duplicates.
 
