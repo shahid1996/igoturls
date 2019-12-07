@@ -19,7 +19,7 @@ def fix(url):
 	if "#" in url:
 		url = url.split("#")[0]
 		pass
-	return url
+	return url.lower()
 	pass
 
 def getWayback():
